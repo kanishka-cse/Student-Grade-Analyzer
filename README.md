@@ -45,7 +45,6 @@ py Grade_Analyzer.py
 
 ## Example Output
 
-
 ============================================================
 Rank  Name            Total   Average   Grade   Status
 ============================================================
@@ -57,6 +56,12 @@ Rank  Name            Total   Average   Grade   Status
  6     Meena          144     28.8      F       FAIL
 ============================================================
 
+## Program Output
+
+### Add Student
+![Add Student](screenshots/add_students.png)
+### Display Students
+![Display Students](screenshots/display_students.png)
 
 ## Author
 
